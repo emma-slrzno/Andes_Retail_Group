@@ -86,6 +86,10 @@ Los datos provienen de tres archivos que se validaron y limpiaron en el notebook
 │   └── Dashboard.png    # Vista previa del dashboard
 └── README.md            # Bilingüe (ES/EN)
 ```
+# Contacto
+
+- LinkedIn: https://www.linkedin.com/in/emma-solorzano-hernandez-jauregui-200301345/
+- Perfil de Tableau Public: https://public.tableau.com/app/profile/emma.solorzano7415/vizzes
 
 [⬆️ Volver arriba](#top) · [🇬🇧 Read in English](#en)
 
@@ -167,5 +171,9 @@ The data comes from three files that were validated and cleaned in the project n
 │   └── Dashboard.png    # Dashboard preview
 └── README.md            # Bilingual (ES/EN)
 ```
+# Contact
 
+- LinkedIn: https://www.linkedin.com/in/emma-solorzano-hernandez-jauregui-200301345/
+- Tableau Public profile: https://public.tableau.com/app/profile/emma.solorzano7415/vizzes
+  
 [⬆️ Back to top](#top) · [🇪🇸 Leer en español](#es)
